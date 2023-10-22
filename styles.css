@@ -1,0 +1,19 @@
+.space {
+    display: flex;
+    flex-direction: row;
+    border: black 2px solid;
+    padding: 20px;
+}
+.center {
+    display: flex;
+    margin-top: 30px;
+    flex: 1;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
